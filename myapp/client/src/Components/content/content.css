@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  margin: 5px;
+}
+
+.centered-text {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
